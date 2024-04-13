@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Nagendra9Kumar
-- 👀 I’m interested in java,web development & Ai
-- 🌱 I’m currently learning Ai
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in java, web development & Ai
+- 🌱 I’m currently learning Ai & web development
+- 💻 Portfolio -> https://nagendra9kumar.github.io/portfolio/
+  
 
-<!---
-Nagendra9Kumar/Nagendra9Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
